@@ -1,0 +1,18 @@
+body {
+    background-color: #f7e998;
+}
+h1 {
+    color: #FF4747;
+    text-align: center;
+}
+p {
+    color: #FF4747;
+    font-size: 20px;
+    text-align: center;
+}
+a {
+    color: #FF4747;
+    font-size: 20px;
+    justify-content: center;
+    display: flex;
+}
